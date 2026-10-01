@@ -1,10 +1,4 @@
 fastapi
 uvicorn
+google-genai
 pydantic
-langgraph
-langchain-google-genai
-langchain-community
-ddgs
-duckduckgo-search
-pillow
-requests
